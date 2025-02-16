@@ -1,1 +1,2 @@
-# beecrowd-Beginner-Problem-Solution
+# beecrowd
+## Beginner-> Problem-Solution
